@@ -1,0 +1,10 @@
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: rgb(248, 3, 3);
+}
